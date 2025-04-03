@@ -9,3 +9,5 @@
 ![Captura funcionamiento4](https://github.com/user-attachments/assets/1f00fc75-2bb5-490b-896e-fa7c098ec83e)
 ![Captura4](https://github.com/user-attachments/assets/78978b95-102a-471c-8e6e-00e799705b34)
 ![Capturafuncionamiento4](https://github.com/user-attachments/assets/ad3826ba-6aef-4d34-b881-0f5ed633b12e)
+![Captura6](https://github.com/user-attachments/assets/092cc5a6-4cd2-4bf2-b442-fdbcabd81210)
+![Capturafuncion](https://github.com/user-attachments/assets/866f3f82-bfb9-4553-89e6-f8380e37f8e4)
