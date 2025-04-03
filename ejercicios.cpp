@@ -240,8 +240,40 @@ int main(){
     }
     
 	//ejercicio 28
-	
+	for (int i = 1; i <= 5; i++) {
+        cout << "valor de i: " << i << " -> ";
+        
+        switch (i) {
+            case 1:
+                cout << "uno";
+                break;
+            case 2:
+                cout << "dos";
+                break;
+            case 3:
+                cout << "tres";
+                break;
+            case 4:
+                cout << "cuatro";
+                break;
+            case 5:
+                cout << "cinco";
+                break;
+            default:
+                cout << "numero no valido";
+        }
+
 	//ejercicio 29
+	string input;
+    
+    cout << "ingrese texto (CTRL+inicio y CTRL+final para finalizar en su sistema):" << endl;
+    
+    while (cin >> input) {
+        cout << "Ingresaste: " << input << endl;
+    }
+    
+    cout << "fin de la entrada detectado. Programa finalizado." << endl;
+    
 	//ejercicio 30
 	int limite;
     
