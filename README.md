@@ -7,3 +7,5 @@
 ![Captura3](https://github.com/user-attachments/assets/f8e57cf3-5624-4849-b0da-6c2daf11cb10)
 ![Captura funcionamiento3](https://github.com/user-attachments/assets/85ebaea5-bab8-40ef-bbf4-c3e51bee5d46)
 ![Captura funcionamiento4](https://github.com/user-attachments/assets/1f00fc75-2bb5-490b-896e-fa7c098ec83e)
+![Captura4](https://github.com/user-attachments/assets/78978b95-102a-471c-8e6e-00e799705b34)
+![Capturafuncionamiento4](https://github.com/user-attachments/assets/ad3826ba-6aef-4d34-b881-0f5ed633b12e)
