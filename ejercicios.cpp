@@ -236,7 +236,7 @@ int main(){
         }
         
         double celsius = (5.0 / 9.0) * (fahrenheit - 32);
-        cout << "equivalente en celsius: " << celsius << "°c" << endl;
+        cout << "equivalente en celsius: " << celsius << "Â°c" << endl;
     }
     
 	//ejercicio 28
@@ -245,28 +245,28 @@ int main(){
         
         switch (i) {
             case 1:
-                cout << "uno";
+                cout << "uno" << endl;
                 break;
             case 2:
-                cout << "dos";
+                cout << "dos" << endl;
                 break;
             case 3:
-                cout << "tres";
+                cout << "tres" << endl;
                 break;
             case 4:
-                cout << "cuatro";
+                cout << "cuatro" << endl;
                 break;
             case 5:
-                cout << "cinco";
+                cout << "cinco" << endl;
                 break;
             default:
-                cout << "numero no valido";
+                cout << "numero no valido" << endl;
         }
-
+	}
 	//ejercicio 29
 	string input;
     
-    cout << "ingrese texto (CTRL+inicio y CTRL+final para finalizar en su sistema):" << endl;
+    cout << "ingrese texto (CTRL+z y CTRL+final para finalizar en su sistema):" << endl;
     
     while (cin >> input) {
         cout << "Ingresaste: " << input << endl;
@@ -275,18 +275,18 @@ int main(){
     cout << "fin de la entrada detectado. Programa finalizado." << endl;
     
 	//ejercicio 30
-	int limite;
+	int limit;
     
     cout << "ingrese el limite superior para encontrar numeros primos: ";
-    cin >> limite;
+    cin >> limit;
     
-    cout << "numeros primos hasta " << limite << ": ";
+    cout << "numeros primos hasta " << limit << ": ";
     
-    for (int num111 = 2; num <= limite; num111++) {
+    for (int num111 = 2; num111 <= limit; num111++) {
         bool esPrimo = true;
         
         for (int i = 2; i * i <= num111; i++) {
-            if (num % i == 0) {
+            if (num111 % i == 0) {
                 esPrimo = false;
                 break;
             }
